@@ -1,0 +1,257 @@
+Geschäftspartner ID,Buchwert,Zinsen,Boni-Rating,CO2 (scope 1+2),Energie,Müll,Abwasser,Produktart,Bundesland,NACE (Zuordnung der Beschreibung),SUM ESG
+1,80,0.05,10,100,50,200,300,Immobilienfinanzierung,Schleswig-Holstein,10_6,650
+1,80,0.05,10,100,50,200,300,Immobilienfinanzierung,Schleswig-Holstein,10_6,650
+1,80,0.05,10,100,50,200,300,Immobilienfinanzierung,Schleswig-Holstein,10_7,650
+2,10,0.02,9,167,1483,782,890,Konsumentenkredit,Baden-Wurttemberg,25_1,3322
+2,10,0.02,9,167,1483,782,890,Konsumentenkredit,Baden-Wurttemberg,25_1,3322
+2,10,0.02,9,167,1483,782,890,Konsumentenkredit,Baden-Wurttemberg,25_2,3322
+3,8,0.025,8,40,664,800,857,Ratenkredit,North Rhine-Westphalia,14_1,2361
+3,8,0.025,8,40,664,800,857,Ratenkredit,North Rhine-Westphalia,14_1,2361
+3,8,0.025,8,40,664,800,857,Ratenkredit,North Rhine-Westphalia,14_2,2361
+3,8,0.025,8,40,664,800,857,Ratenkredit,North Rhine-Westphalia,14_3,2361
+4,3,0.03,10,159,1215,184,255,Automobilfinanzierung,Saxony,15_1,1813
+4,3,0.03,10,159,1215,184,255,Automobilfinanzierung,Saxony,15_1,1813
+5,5,0.07,7,236,74,855,959,Lombardkredit,North Rhine-Westphalia,16_1,2124
+5,5,0.07,7,236,74,855,959,Lombardkredit,North Rhine-Westphalia,16_1,2124
+5,5,0.07,7,236,74,855,959,Lombardkredit,North Rhine-Westphalia,16_2,2124
+5,5,0.07,7,236,74,855,959,Lombardkredit,North Rhine-Westphalia,16_3,2124
+6,6.5,0.015,7,182,970,909,202,Revolvierender Kredit,Lower Saxony,17_1,2263
+6,6.5,0.015,7,182,970,909,202,Revolvierender Kredit,Lower Saxony,17_2,2263
+6,6.5,0.015,7,182,970,909,202,Revolvierender Kredit,Lower Saxony,17_3,2263
+7,80,0.05,8,136,58,1140,214,Immobilienfinanzierung,Bavaria,18_1,1548
+7,80,0.05,8,136,58,1140,214,Immobilienfinanzierung,Bavaria,18_1,1548
+8,125,0.06,8,46,1170,483,961,Immobilienfinanzierung,Rhineland-Palatinate,19_1,2660
+8,125,0.06,8,46,1170,483,961,Immobilienfinanzierung,Rhineland-Palatinate,19_1,2660
+8,125,0.06,8,46,1170,483,961,Immobilienfinanzierung,Rhineland-Palatinate,19_2,2660
+8,125,0.06,8,46,1170,483,961,Immobilienfinanzierung,Rhineland-Palatinate,19_3,2660
+9,10,0.02,8,79,1430,1206,274,Automobilfinanzierung,Saxony,25_1,2989
+9,10,0.02,8,79,1430,1206,274,Automobilfinanzierung,Saxony,25_1,2989
+9,10,0.02,8,79,1430,1206,274,Automobilfinanzierung,Saxony,25_2,2989
+9,10,0.02,8,79,1430,1206,274,Automobilfinanzierung,Saxony,25_3,2989
+10,8,0.025,7,67,160,506,495,Ratenkredit,Rhineland-Palatinate,28_1,1228
+10,8,0.025,7,67,160,506,495,Ratenkredit,Rhineland-Palatinate,28_1,1228
+11,3,0.03,10,57,1000,620,367,Ratenkredit,Hamburg,28_2,2044
+11,3,0.03,10,57,1000,620,367,Ratenkredit,Hamburg,28_2,2044
+12,245,0.055,8,191,928,117,475,Immobilienfinanzierung,Baden-Wurttemberg,28_3,1711
+12,245,0.055,8,191,928,117,475,Immobilienfinanzierung,Baden-Wurttemberg,28_3,1711
+12,245,0.055,8,191,928,117,475,Immobilienfinanzierung,Baden-Wurttemberg,28_4,1711
+12,245,0.055,8,191,928,117,475,Immobilienfinanzierung,Baden-Wurttemberg,28_5,1711
+12,245,0.055,8,191,928,117,475,Immobilienfinanzierung,Baden-Wurttemberg,28_6,1711
+13,3,0.03,8,154,702,209,607,Konsumentenkredit,North Rhine-Westphalia,28_4,1672
+13,3,0.03,8,154,702,209,607,Konsumentenkredit,North Rhine-Westphalia,28_4,1672
+14,4,0.02,10,159,885,1053,622,Ratenkredit,Saxony-Anhalt,28_5,2719
+14,4,0.02,10,159,885,1053,622,Ratenkredit,Saxony-Anhalt,28_5,2719
+15,8,0.015,7,196,305,990,851,Automobilfinanzierung,Hesse,28_6,2342
+15,8,0.015,7,196,305,990,851,Automobilfinanzierung,Hesse,28_6,2342
+16,6,0.07,7,84,918,848,387,Lombardkredit,Schleswig-Holstein,28_7,2237
+16,6,0.07,7,84,918,848,387,Lombardkredit,Schleswig-Holstein,28_7,2237
+17,2,0.035,8,90,29,317,820,Revolvierender Kredit,Bavaria,28_8,1256
+17,2,0.035,8,90,29,317,820,Revolvierender Kredit,Bavaria,28_8,1256
+18,245,0.055,10,123,706,805,282,Immobilienfinanzierung,North Rhine-Westphalia,28_9,1916
+18,245,0.055,10,123,706,805,282,Immobilienfinanzierung,North Rhine-Westphalia,28_9,1916
+19,80,0.05,9,126,1207,1105,596,Immobilienfinanzierung,Saxony,28_3,3034
+19,80,0.05,9,126,1207,1105,596,Immobilienfinanzierung,Saxony,28_3,3034
+19,80,0.05,9,126,1207,1105,596,Immobilienfinanzierung,Saxony,28_4,3034
+20,10,0.07,10,228,648,574,612,Automobilfinanzierung,Rhineland-Palatinate,28_3,2062
+20,10,0.07,10,228,648,574,612,Automobilfinanzierung,Rhineland-Palatinate,28_3,2062
+21,1,0.01,9,61,71,222,989,Ratenkredit,Hamburg,28_4,1343
+21,1,0.01,9,61,71,222,989,Ratenkredit,Hamburg,28_4,1343
+22,2,0.08,9,116,593,223,345,Ratenkredit,Baden-Wurttemberg,28_8,1277
+22,2,0.08,9,116,593,223,345,Ratenkredit,Baden-Wurttemberg,28_8,1277
+23,300,0.025,10,190,901,1234,485,Immobilienfinanzierung,North Rhine-Westphalia,30_1,2810
+23,300,0.025,10,190,901,1234,485,Immobilienfinanzierung,North Rhine-Westphalia,30_1,2810
+24,6,0.03,7,151,1031,176,970,Konsumentenkredit,Thuringia,30_2,2328
+24,6,0.03,7,151,1031,176,970,Konsumentenkredit,Thuringia,30_2,2328
+25,7,0.08,10,150,975,1147,371,Ratenkredit,Hesse,30_3,2643
+25,7,0.08,10,150,975,1147,371,Ratenkredit,Hesse,30_3,2643
+26,10,0.03,9,173,241,828,281,Automobilfinanzierung,Mecklenburg-Western Pomerania,30_4,1523
+26,10,0.03,9,173,241,828,281,Automobilfinanzierung,Mecklenburg-Western Pomerania,30_4,1523
+27,6,0.05,9,78,1248,941,106,Lombardkredit,Bavaria,30_5,2373
+27,6,0.05,9,78,1248,941,106,Lombardkredit,Bavaria,30_5,2373
+27,6,0.05,9,78,1248,941,106,Lombardkredit,Bavaria,30_6,2373
+28,9,0.07,8,71,1030,919,700,Revolvierender Kredit,Hesse,30_6,2720
+28,9,0.07,8,71,1030,919,700,Revolvierender Kredit,Hesse,30_6,2720
+29,300,0.025,10,195,580,246,567,Immobilienfinanzierung,Thuringia,30_7,1588
+29,300,0.025,10,195,580,246,567,Immobilienfinanzierung,Thuringia,30_7,1588
+30,245,0.055,8,231,374,705,518,Immobilienfinanzierung,Hesse,30_8,1828
+30,245,0.055,8,231,374,705,518,Immobilienfinanzierung,Hesse,30_8,1828
+31,2,0.01,10,180,1331,1141,588,Automobilfinanzierung,Hamburg,30_9,3240
+31,2,0.01,10,180,1331,1141,588,Automobilfinanzierung,Hamburg,30_9,3240
+32,7,0.02,7,141,1074,298,60,Ratenkredit,Bavaria,43_1,1573
+32,7,0.02,7,141,1074,298,60,Ratenkredit,Bavaria,43_1,1573
+33,9,0.02,10,30,947,535,511,Ratenkredit,Saarland,43_2,2023
+33,9,0.02,10,30,947,535,511,Ratenkredit,Saarland,43_2,2023
+34,225,0.04,7,200,1100,867,169,Immobilienfinanzierung,Thuringia,46_1,2336
+34,225,0.04,7,200,1100,867,169,Immobilienfinanzierung,Thuringia,46_1,2336
+35,4,0.02,8,126,128,576,907,Konsumentenkredit,Rhineland-Palatinate,46_2,1737
+35,4,0.02,8,126,128,576,907,Konsumentenkredit,Rhineland-Palatinate,46_2,1737
+35,4,0.02,8,126,128,576,907,Konsumentenkredit,Rhineland-Palatinate,46_3,1737
+36,4,0.04,8,200,186,457,100,Ratenkredit,Hamburg,46_3,943
+36,4,0.04,8,200,186,457,100,Ratenkredit,Hamburg,46_4,943
+37,7,0.01,7,78,1333,495,114,Automobilfinanzierung,Bavaria,46_4,2020
+37,7,0.01,7,78,1333,495,114,Automobilfinanzierung,Bavaria,46_4,2020
+38,6,0.06,8,45,854,701,381,Lombardkredit,Rhineland-Palatinate,46_5,1981
+38,6,0.06,8,45,854,701,381,Lombardkredit,Rhineland-Palatinate,46_5,1981
+39,3,0.05,7,91,880,604,716,Revolvierender Kredit,Brandenburg,46_6,2291
+39,3,0.05,7,91,880,604,716,Revolvierender Kredit,Brandenburg,46_6,2291
+40,225,0.04,10,24,702,199,523,Immobilienfinanzierung,Hesse,46_7,1448
+40,225,0.04,10,24,702,199,523,Immobilienfinanzierung,Hesse,46_7,1448
+40,225,0.04,10,24,702,199,523,Immobilienfinanzierung,Hesse,46_8,1448
+41,300,0.025,9,177,1144,281,754,Immobilienfinanzierung,Schleswig-Holstein,47_1,2356
+41,300,0.025,9,177,1144,281,754,Immobilienfinanzierung,Schleswig-Holstein,47_1,2356
+42,5,0.02,9,88,1376,513,482,Automobilfinanzierung,Bavaria,47_2,2459
+42,5,0.02,9,88,1376,513,482,Automobilfinanzierung,Bavaria,47_2,2459
+43,8,0.06,9,39,1055,39,818,Ratenkredit,North Rhine-Westphalia,47_3,1951
+43,8,0.06,9,39,1055,39,818,Ratenkredit,North Rhine-Westphalia,47_3,1951
+44,4,0.06,8,92,463,103,452,Ratenkredit,Berlin,47_4,1110
+44,4,0.06,8,92,463,103,452,Ratenkredit,Berlin,47_4,1110
+45,875,0.03,7,196,205,1119,195,Immobilienfinanzierung,North Rhine-Westphalia,47_5,1715
+45,875,0.03,7,196,205,1119,195,Immobilienfinanzierung,North Rhine-Westphalia,47_5,1715
+45,875,0.03,7,196,205,1119,195,Immobilienfinanzierung,North Rhine-Westphalia,47_6,1715
+45,875,0.03,7,196,205,1119,195,Immobilienfinanzierung,North Rhine-Westphalia,47_7,1715
+45,875,0.03,7,196,205,1119,195,Immobilienfinanzierung,North Rhine-Westphalia,47_8,1715
+46,3,0.07,9,160,1417,1086,928,Konsumentenkredit,Lower Saxony,47_6,3591
+46,3,0.07,9,160,1417,1086,928,Konsumentenkredit,Lower Saxony,47_6,3591
+47,3,0.05,9,84,1084,246,28,Ratenkredit,Baden-Wurttemberg,47_7,1442
+47,3,0.05,9,84,1084,246,28,Ratenkredit,Baden-Wurttemberg,47_7,1442
+48,5,0.06,9,104,109,1198,145,Automobilfinanzierung,Saarland,47_8,1556
+48,5,0.06,9,104,109,1198,145,Automobilfinanzierung,Saarland,47_8,1556
+48,5,0.06,9,104,109,1198,145,Automobilfinanzierung,Saarland,47_9,1556
+49,3,0.04,7,192,1119,1233,276,Lombardkredit,Saxony,3_2,2820
+49,3,0.04,7,192,1119,1233,276,Lombardkredit,Saxony,3_2,2820
+50,7,0.07,10,141,482,1171,849,Revolvierender Kredit,Saarland,25_1,2643
+50,7,0.07,10,141,482,1171,849,Revolvierender Kredit,Saarland,25_1,2643
+50,7,0.07,10,141,482,1171,849,Revolvierender Kredit,Saarland,25_2,2643
+51,875,0.03,7,42,349,249,983,Immobilienfinanzierung,Mecklenburg-Western Pomerania,12_2,1623
+51,875,0.03,7,42,349,249,983,Immobilienfinanzierung,Mecklenburg-Western Pomerania,12_2,1623
+52,225,0.04,8,143,1390,772,352,Immobilienfinanzierung,Bavaria,47_5,2657
+52,225,0.04,8,143,1390,772,352,Immobilienfinanzierung,Bavaria,47_5,2657
+52,225,0.04,8,143,1390,772,352,Immobilienfinanzierung,Bavaria,47_6,2657
+52,225,0.04,8,143,1390,772,352,Immobilienfinanzierung,Bavaria,47_7,2657
+52,225,0.04,8,143,1390,772,352,Immobilienfinanzierung,Bavaria,47_8,2657
+53,3,0.08,9,154,521,815,872,Automobilfinanzierung,Hesse,53_1,2362
+53,3,0.08,9,154,521,815,872,Automobilfinanzierung,Hesse,53_1,2362
+54,9,0.03,9,85,155,675,336,Ratenkredit,Berlin,43_2,1251
+54,9,0.03,9,85,155,675,336,Ratenkredit,Berlin,43_2,1251
+55,2,0.08,7,160,234,79,900,Ratenkredit,Saarland,80_1,1373
+55,2,0.08,7,160,234,79,900,Ratenkredit,Saarland,80_1,1373
+56,125,0.06,7,116,262,1217,635,Immobilienfinanzierung,Hamburg,46_2,2230
+56,125,0.06,7,116,262,1217,635,Immobilienfinanzierung,Hamburg,46_2,2230
+56,125,0.06,7,116,262,1217,635,Immobilienfinanzierung,Hamburg,46_3,2230
+57,4,0.06,8,199,1285,137,785,Konsumentenkredit,Bavaria,67_2,2406
+57,4,0.06,8,199,1285,137,785,Konsumentenkredit,Bavaria,67_2,2406
+58,1,0.04,8,226,267,307,124,Ratenkredit,Saarland,39_1,924
+58,1,0.04,8,226,267,307,124,Ratenkredit,Saarland,39_1,924
+59,7,0.07,9,108,190,746,437,Automobilfinanzierung,Brandenburg,35_1,1481
+59,7,0.07,9,108,190,746,437,Automobilfinanzierung,Brandenburg,35_1,1481
+60,6,0.04,7,170,1494,378,518,Lombardkredit,Saarland,46_2,2560
+60,6,0.04,7,170,1494,378,518,Lombardkredit,Saarland,46_2,2560
+60,6,0.04,7,170,1494,378,518,Lombardkredit,Saarland,46_3,2560
+61,2,0.06,9,112,517,636,301,Revolvierender Kredit,Mecklenburg-Western Pomerania,36_2,1566
+61,2,0.06,9,112,517,636,301,Revolvierender Kredit,Mecklenburg-Western Pomerania,36_2,1566
+62,125,0.06,9,216,1422,952,449,Immobilienfinanzierung,Baden-Wurttemberg,23_1,3039
+62,125,0.06,9,216,1422,952,449,Immobilienfinanzierung,Baden-Wurttemberg,23_1,3039
+63,875,0.03,7,134,831,776,617,Immobilienfinanzierung,Saarland,47_5,2358
+63,875,0.03,7,134,831,776,617,Immobilienfinanzierung,Saarland,47_5,2358
+63,875,0.03,7,134,831,776,617,Immobilienfinanzierung,Saarland,47_6,2358
+63,875,0.03,7,134,831,776,617,Immobilienfinanzierung,Saarland,47_7,2358
+63,875,0.03,7,134,831,776,617,Immobilienfinanzierung,Saarland,47_8,2358
+64,8,0.03,7,118,101,638,941,Automobilfinanzierung,Berlin,28_1,1798
+64,8,0.03,7,118,101,638,941,Automobilfinanzierung,Berlin,28_1,1798
+65,2,0.08,9,14,906,806,631,Ratenkredit,Hesse,76_1,2357
+65,2,0.08,9,14,906,806,631,Ratenkredit,Hesse,76_1,2357
+66,9,0.07,7,209,624,339,288,Ratenkredit,Hamburg,31_1,1460
+66,9,0.07,7,209,624,339,288,Ratenkredit,Hamburg,31_1,1460
+67,80,0.05,8,54,498,1156,86,Immobilienfinanzierung,Bavaria,72_1,1794
+67,80,0.05,8,54,498,1156,86,Immobilienfinanzierung,Bavaria,72_1,1794
+68,3,0.08,7,248,665,472,27,Konsumentenkredit,Rhineland-Palatinate,1_1,1412
+68,3,0.08,7,248,665,472,27,Konsumentenkredit,Rhineland-Palatinate,1_1,1412
+69,3,0.07,9,250,721,1083,793,Ratenkredit,Berlin,25_1,2847
+69,3,0.07,9,250,721,1083,793,Ratenkredit,Berlin,25_1,2847
+69,3,0.07,9,250,721,1083,793,Ratenkredit,Berlin,25_2,2847
+69,3,0.07,9,250,721,1083,793,Ratenkredit,Berlin,25_3,2847
+70,9,0.06,10,150,489,623,655,Automobilfinanzierung,Rhineland-Palatinate,49_1,1917
+70,9,0.06,10,150,489,623,655,Automobilfinanzierung,Rhineland-Palatinate,49_1,1917
+71,3,0.07,7,175,802,936,575,Lombardkredit,Schleswig-Holstein,24_1,2488
+71,3,0.07,7,175,802,936,575,Lombardkredit,Schleswig-Holstein,24_1,2488
+72,6,0.05,10,90,591,27,410,Revolvierender Kredit,Baden-Wurttemberg,58_2,1118
+72,6,0.05,10,90,591,27,410,Revolvierender Kredit,Baden-Wurttemberg,58_2,1118
+73,80,0.05,7,43,845,566,233,Immobilienfinanzierung,Hesse,46_2,1687
+73,80,0.05,7,43,845,566,233,Immobilienfinanzierung,Hesse,46_2,1687
+73,80,0.05,7,43,845,566,233,Immobilienfinanzierung,Hesse,46_3,1687
+74,125,0.06,9,33,1064,272,284,Immobilienfinanzierung,Saxony,25_1,1653
+74,125,0.06,9,33,1064,272,284,Immobilienfinanzierung,Saxony,25_1,1653
+74,125,0.06,9,33,1064,272,284,Immobilienfinanzierung,Saxony,25_2,1653
+74,125,0.06,9,33,1064,272,284,Immobilienfinanzierung,Saxony,25_3,1653
+75,3,0.07,8,216,238,635,58,Automobilfinanzierung,North Rhine-Westphalia,30_2,1147
+75,3,0.07,8,216,238,635,58,Automobilfinanzierung,North Rhine-Westphalia,30_2,1147
+76,7,0.02,8,148,885,913,189,Ratenkredit,Hamburg,89_1,2135
+76,7,0.02,8,148,885,913,189,Ratenkredit,Hamburg,89_1,2135
+77,4,0.03,9,157,595,337,336,Ratenkredit,Baden-Wurttemberg,46_2,1425
+77,4,0.03,9,157,595,337,336,Ratenkredit,Baden-Wurttemberg,46_2,1425
+77,4,0.03,9,157,595,337,336,Ratenkredit,Baden-Wurttemberg,46_3,1425
+78,245,0.055,7,215,1197,1157,768,Immobilienfinanzierung,Saarland,46_2,3337
+78,245,0.055,7,215,1197,1157,768,Immobilienfinanzierung,Saarland,46_2,3337
+78,245,0.055,7,215,1197,1157,768,Immobilienfinanzierung,Saarland,46_3,3337
+79,9,0.01,10,233,996,476,305,Konsumentenkredit,Berlin,13_2,2010
+79,9,0.01,10,233,996,476,305,Konsumentenkredit,Berlin,13_2,2010
+80,9,0.03,8,204,858,701,531,Ratenkredit,North Rhine-Westphalia,25_1,2294
+80,9,0.03,8,204,858,701,531,Ratenkredit,North Rhine-Westphalia,25_1,2294
+80,9,0.03,8,204,858,701,531,Ratenkredit,North Rhine-Westphalia,25_2,2294
+80,9,0.03,8,204,858,701,531,Ratenkredit,North Rhine-Westphalia,25_3,2294
+81,9,0.04,9,197,159,776,572,Automobilfinanzierung,Hamburg,47_5,1704
+81,9,0.04,9,197,159,776,572,Automobilfinanzierung,Hamburg,47_5,1704
+81,9,0.04,9,197,159,776,572,Automobilfinanzierung,Hamburg,47_6,1704
+81,9,0.04,9,197,159,776,572,Automobilfinanzierung,Hamburg,47_7,1704
+81,9,0.04,9,197,159,776,572,Automobilfinanzierung,Hamburg,47_8,1704
+82,9,0.08,10,77,223,1091,711,Lombardkredit,Baden-Wurttemberg,13_1,2102
+82,9,0.08,10,77,223,1091,711,Lombardkredit,Baden-Wurttemberg,13_1,2102
+83,10,0.04,7,159,268,135,800,Revolvierender Kredit,Rhineland-Palatinate,25_1,1362
+83,10,0.04,7,159,268,135,800,Revolvierender Kredit,Rhineland-Palatinate,25_1,1362
+83,10,0.04,7,159,268,135,800,Revolvierender Kredit,Rhineland-Palatinate,25_2,1362
+83,10,0.04,7,159,268,135,800,Revolvierender Kredit,Rhineland-Palatinate,25_3,1362
+84,245,0.055,10,220,439,1235,36,Immobilienfinanzierung,Saxony-Anhalt,46_2,1930
+84,245,0.055,10,220,439,1235,36,Immobilienfinanzierung,Saxony-Anhalt,46_2,1930
+84,245,0.055,10,220,439,1235,36,Immobilienfinanzierung,Saxony-Anhalt,46_3,1930
+85,80,0.05,8,72,1076,808,278,Immobilienfinanzierung,Hesse,27_2,2234
+85,80,0.05,8,72,1076,808,278,Immobilienfinanzierung,Hesse,27_2,2234
+86,6,0.04,7,67,573,822,710,Automobilfinanzierung,Bremen,46_2,2172
+86,6,0.04,7,67,573,822,710,Automobilfinanzierung,Bremen,46_2,2172
+86,6,0.04,7,67,573,822,710,Automobilfinanzierung,Bremen,46_3,2172
+87,3,0.01,10,138,192,70,709,Ratenkredit,Bavaria,78_2,1109
+87,3,0.01,10,138,192,70,709,Ratenkredit,Bavaria,78_2,1109
+88,5,0.07,8,80,1224,924,130,Ratenkredit,Hesse,6_2,2358
+88,5,0.07,8,80,1224,924,130,Ratenkredit,Hesse,6_2,2358
+89,300,0.025,10,241,1085,1161,189,Immobilienfinanzierung,Thuringia,25_1,2676
+89,300,0.025,10,241,1085,1161,189,Immobilienfinanzierung,Thuringia,25_1,2676
+89,300,0.025,10,241,1085,1161,189,Immobilienfinanzierung,Thuringia,25_2,2676
+89,300,0.025,10,241,1085,1161,189,Immobilienfinanzierung,Thuringia,25_3,2676
+90,2,0.06,8,180,844,52,97,Konsumentenkredit,Hesse,47_5,1173
+90,2,0.06,8,180,844,52,97,Konsumentenkredit,Hesse,47_5,1173
+90,2,0.06,8,180,844,52,97,Konsumentenkredit,Hesse,47_6,1173
+90,2,0.06,8,180,844,52,97,Konsumentenkredit,Hesse,47_7,1173
+90,2,0.06,8,180,844,52,97,Konsumentenkredit,Hesse,47_8,1173
+91,2,0.03,8,114,1180,777,565,Ratenkredit,Bremen,75_2,2636
+91,2,0.03,8,114,1180,777,565,Ratenkredit,Bremen,75_2,2636
+92,1,0.07,8,155,1045,966,164,Automobilfinanzierung,Bavaria,83_1,2330
+92,1,0.07,8,155,1045,966,164,Automobilfinanzierung,Bavaria,83_1,2330
+93,2,0.04,7,50,751,1235,528,Lombardkredit,North Rhine-Westphalia,29_2,2564
+93,2,0.04,7,50,751,1235,528,Lombardkredit,North Rhine-Westphalia,29_2,2564
+94,8,0.02,10,217,1309,164,224,Revolvierender Kredit,Saxony-Anhalt,38_2,1914
+94,8,0.02,10,217,1309,164,224,Revolvierender Kredit,Saxony-Anhalt,38_2,1914
+95,300,0.025,10,51,1131,636,820,Immobilienfinanzierung,Rhineland-Palatinate,5_2,2638
+95,300,0.025,10,51,1131,636,820,Immobilienfinanzierung,Rhineland-Palatinate,5_2,2638
+96,245,0.055,7,130,425,39,605,Immobilienfinanzierung,Mecklenburg-Western Pomerania,57_1,1199
+96,245,0.055,7,130,425,39,605,Immobilienfinanzierung,Mecklenburg-Western Pomerania,57_1,1199
+97,5,0.03,9,145,138,146,446,Automobilfinanzierung,Bavaria,46_2,875
+97,5,0.03,9,145,138,146,446,Automobilfinanzierung,Bavaria,46_2,875
+97,5,0.03,9,145,138,146,446,Automobilfinanzierung,Bavaria,46_3,875
+98,1,0.07,8,111,412,779,204,Ratenkredit,North Rhine-Westphalia,25_1,1506
+98,1,0.07,8,111,412,779,204,Ratenkredit,North Rhine-Westphalia,25_1,1506
+98,1,0.07,8,111,412,779,204,Ratenkredit,North Rhine-Westphalia,25_2,1506
+98,1,0.07,8,111,412,779,204,Ratenkredit,North Rhine-Westphalia,25_3,1506
+99,1,0.07,9,18,1164,626,603,Ratenkredit,Saxony,46_2,2411
+99,1,0.07,9,18,1164,626,603,Ratenkredit,Saxony,46_2,2411
+99,1,0.07,9,18,1164,626,603,Ratenkredit,Saxony,46_3,2411
+100,225,0.04,8,140,244,912,697,Immobilienfinanzierung,Rhineland-Palatinate,46_2,1993
+100,225,0.04,8,140,244,912,697,Immobilienfinanzierung,Rhineland-Palatinate,46_2,1993
